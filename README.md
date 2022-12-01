@@ -1,5 +1,5 @@
 # GANTemplateJS
-If you come from my youtube wassup
+A repo of me trying to make a GAN from scratch
 
 # Tutorial
 
